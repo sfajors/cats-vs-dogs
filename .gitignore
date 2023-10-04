@@ -1,0 +1,22 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+*.venv
+*.virtenv
+
+# Miscellaneous
+*.log
+*.swp
+*.bak
+.DS_Store

@@ -1,13 +1,8 @@
-PIL
-cv2
-itertools
+Pillow
+opencv-python
 matplotlib
 numpy
-os
 pandas
-pathlib
 seaborn
-shutil
-sklearn
+scikit-learn
 tensorflow
-warnings

@@ -1,6 +1,10 @@
 # Cats vs. Dogs classifier
 ## Overview
 This notebook is designed to classify images into two categories: cats and dogs. It demonstrates how to preprocess image data, design a a convolutional neural network (CNN), and evaluate its perfromance using TensorFlow and Keras
+
+The Dogs vs. Cats is a popular dataset for binary classification. I have provided a link to the dataset below fro those interested in downloading it. The file size is approximately 856.1 MB.
+
+[Kaggle Dataset](https://www.kaggle.com/c/dogs-vs-cats)
 ## How it Works
 1. **Data Preparation:** The notebook starts by unzipping the dataset sourced from Kaggle's "Dogs vs. Cats" competition. The dataset contains labeled images of cats and dogs which are used for training and testing the model.
 2. **Data Exploration:** Various techniques are used to visualize and understand the distribution and structure of the images.
